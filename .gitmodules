@@ -1,0 +1,4 @@
+[submodule "pikafish-node"]
+	path = pikafish-node
+	url = git@github.com:hjd-hitsz/pikafish-node.git
+	branch = main
